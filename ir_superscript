@@ -1,0 +1,4 @@
+#!/bin/sh
+# /etc/init.d/startupscript
+
+sudo python /home/pi/IR_Switch/ir_relayswitch.py &
